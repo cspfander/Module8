@@ -13,8 +13,6 @@ def switch_average(key):
         for a_key in switch_dictionary:
             if key == a_key:
                 return switch_dictionary[a_key]
-            else:
-                return "Invalid key, try again!"
     except ValueError:
         print("Invalid key, try again!")
 
