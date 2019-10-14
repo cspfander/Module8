@@ -1,5 +1,5 @@
 """
-Program: assign_average.py
+Program: half_birthday.py
 Author: Colten Pfander
 Last date modified: 10/14/2019
 
